@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>task_02</title>
+<link rel="stylesheet" type="text/css" href="task_02.css">
+</head>
+<body>
+<div id="container">
+
+<!-- 导航栏 -->
+<div class="header">
+<img src="shuang.jpg" alt="logo"/>
+<ul>
+    <li><a href="#">导航链接一</a></li>
+	<li><a href="#">导航链接二</a></li>
+	<li><a href="#">导航链接三</a></li>
+	<li><a href="#">导航链接四</a></li>
+</ul>
+</div>
+
+<!-- 内容主体 -->
+<!-- 第一篇文章 -->
+<div class="paragraph">
+<h2>文章一级标题</h2>
+<h3>文章二级标题</h3>
+<span class="writer-infro">文章作者&nbsp;文章发表时间</span>
+<p>
+这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了<br />
+这是一个很长很长的段落，这是一个很长很长的段落，<strong>这里有粗体字</strong>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+</p>
+<img src="timg.jpeg" />
+<p>
+这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了<br />
+这是一个很长很长的段落，这是一个很长很长的段落，<strong>这里有粗体字</strong>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com" target="_blank">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+</p>
+</div>
+
+<!-- 第二篇文章 -->
+<div class="paragraph">
+<h2>另一篇文章的一级标题</h2>
+<h3>文章的二级标题</h3>
+<span class="writer-infro">文章作者&nbsp;文章发表时间</span>
+<p>
+这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了<br />
+这是一个很长很长的段落，这是一个很长很长的段落，<strong>这里有粗体字</strong>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落。
+</p>
+<img src="timg.jpeg" />
+<ul>
+    <li>列表项目一</li>
+	<li>列表项目二</li>
+	<li>列表项目三</li>
+</ul>
+</div>
+
+<!-- 第三部分 -->
+<div class="paragraph">
+<h2>图片</h2>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+<figure><span class="pic-infor">好看的图片</span><br /><img src="timg.jpeg" alt="game" /></figure>
+</div>
+
+<!-- 第四部分 -->
+<div class="paragraph">
+<h2>最后一篇文章的一级标题</h2>
+<h3>文章二级标题</h3>
+<span class="writer-infro">文章作者&nbsp;文章发表时间</span>
+<ol>
+    <li>排名1</li>
+	<li>排名2</li>
+	<li>排名3</li>
+</ol>
+<span>下面是一个表格，给表格加了一个border=“1”好让你看出是一个表格</span>
+<table border="1">
+    <tr>
+	    <th>表头</th>
+		<th>表头</th>
+		<th>表头</th>
+	</tr>
+	<tr>
+	    <td>表内容单元格</td>
+		<td>表内容单元格</td>
+		<td><a href="#">操作</a></td>
+	</tr>
+	<tr>
+	    <td>表内容单元格</td>
+		<td>表内容单元格</td>
+		<td><a href="#">操作</a></td>
+	</tr>
+	<tr>
+	    <td>表内容单元格</td>
+		<td>表内容单元格</td>
+		<td><a href="#">操作</a></td>
+	</tr>
+	<tr>
+	    <td>表内容单元格</td>
+		<td>表内容单元格</td>
+		<td><a href="#">操作</a></td>
+	</tr>
+	<tr class="last">
+	    <td>总计</td>
+		<td colspan="2">1000</td>
+	</tr>
+</table>
+</div>
+
+<!-- 第五部分，侧栏 -->
+<div class="paragraph">
+<h2>这里以后是一个侧栏，这是侧栏标题</h2>
+<form method="post" action="">
+    <lable>请输入邮箱地址：</lable>
+	<input type="text" name="email" placeholder="请输入邮箱"/>
+	<br />
+	<span class="form-infor">邮箱地址请按要求格式输入</span>
+	<br />
+	
+	<lable>请输入密码：</lable>
+	<input type="password" name="password" placeholder="请输入密码"/><br />
+	<lable>请重复输入密码：</lable>
+	<input type="password" name="password" placeholder="再次输入密码" />
+	<br />
+	<span class="form-infor">密码请为6-16位英文数字</span>
+	<br />
+	
+	<lable>性别:</lable>
+	<input type="radio" name="sex" value="男" checked="checked">男
+	<input type="radio" name="sex" value="女">女
+	<br />
+	
+	<lable>城市:</lable>
+	<select>
+		<option value="上海">上海</option>
+		<option value="北京" selected="selected">北京</option>
+		<option value="广州">广州</option>
+		<option value="深圳">深圳</option>
+	</select>
+	<br />
+	
+	<lable>爱好:</lable>
+	<input type="checkbox" name="checkbox1" value="运动">运动
+	<input type="checkbox" name="checkbox2" value="艺术">艺术
+	<input type="checkbox" name="checkbox3" value="科学">科学
+	<br />
+	
+	<lable>个人描述：</lable>
+	<textarea cols="60" rows="10">这是一个多行输入框，输入您的个人描述</textarea>
+	<br />
+	<input type="submit" class="button" value="提交吧~~">
+</form>
+</div>
+
+<!-- 版权部分 -->
+<div id="footer">
+<span>misssnowy&copy;</span>
+</div>
+
+</div>
+</body>
+</html>
